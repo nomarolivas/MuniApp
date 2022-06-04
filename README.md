@@ -1,2 +1,2 @@
 # MuniApp
-MuniApp Homework 1
+MuniApp
